@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-cesar--velasquez.cloud-1D4ED8?logo=astro&logoColor=white)](https://www.cesar-velasquez.cloud/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-cesar--velasquez--cloud-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-velasquez-cloud)
+[![EF SET English C1](https://img.shields.io/badge/EF_SET_English-C1_Advanced-0073C9)](https://cert.efset.org/iho4UP)
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazonwebservices&logoColor=white)](https://www.credly.com/badges/c40a4f52-5899-43c6-b414-a72d550c4431)
 
 🇺🇸 [English](#-english) · 🇪🇸 [Español](#-español)
@@ -18,7 +19,7 @@
 
 ### 👋 About me
 
-Computer engineer with 10+ years in tech and 4+ years leading end-to-end **OMS SaaS implementations** for enterprise retail in Chile. I connect e-commerce platforms, ERPs, marketplaces, POS systems and logistics carriers through REST APIs and webhooks, and I act as the technical bridge between Engineering, Product and the business, from discovery through go-live and adoption.
+Computer engineer with 10+ years in tech and 4+ years leading end-to-end **OMS SaaS implementations** for enterprise retail in Chile. I connect e-commerce platforms, ERPs, marketplaces, POS systems and logistics carriers through REST APIs and webhooks, and I work in English and Spanish as the technical bridge between Engineering, Product and the business, from discovery through go-live and adoption.
 
 These days I also build:
 
@@ -59,6 +60,7 @@ These days I also build:
 
 | Certification | Issuer | Date |
 |---|---|---|
+| [EF SET English Certificate — C1 Advanced (63/100)](https://cert.efset.org/iho4UP) | EF Education First | Jul 2026 |
 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c40a4f52-5899-43c6-b414-a72d550c4431) | Amazon Web Services | Dec 2025 |
 | [AWS Knowledge: Amazon Q Developer Fundamentals](https://www.credly.com/badges/acf53de8-710f-4b22-83b5-93a68b857805/public_url) | Amazon Web Services | Oct 2025 |
 
@@ -76,7 +78,7 @@ These days I also build:
 
 ### 👋 Sobre mí
 
-Ingeniero informático con más de 10 años en tecnología y más de 4 liderando **implementaciones end-to-end de OMS SaaS** para retail enterprise en Chile. Conecto plataformas de e-commerce, ERPs, marketplaces, sistemas POS y operadores logísticos mediante REST APIs y webhooks, y trabajo como puente técnico entre Ingeniería, Producto y negocio, desde el discovery hasta el go-live y la adopción.
+Ingeniero informático con más de 10 años en tecnología y más de 4 liderando **implementaciones end-to-end de OMS SaaS** para retail enterprise en Chile. Conecto plataformas de e-commerce, ERPs, marketplaces, sistemas POS y operadores logísticos mediante REST APIs y webhooks, y trabajo en español e inglés como puente técnico entre Ingeniería, Producto y negocio, desde el discovery hasta el go-live y la adopción.
 
 Además, hoy construyo:
 
@@ -117,6 +119,7 @@ Además, hoy construyo:
 
 | Certificación | Emisor | Fecha |
 |---|---|---|
+| [EF SET Certificado de Inglés — C1 Advanced (63/100)](https://cert.efset.org/iho4UP) | EF Education First | Jul 2026 |
 | [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c40a4f52-5899-43c6-b414-a72d550c4431) | Amazon Web Services | Dic 2025 |
 | [AWS Knowledge: Amazon Q Developer Fundamentals](https://www.credly.com/badges/acf53de8-710f-4b22-83b5-93a68b857805/public_url) | Amazon Web Services | Oct 2025 |
 
